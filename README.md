@@ -19,7 +19,8 @@ I'm currently working on a **Farming Simulation Game** for my **Game Programming
   - [Library management system](https://github.com/NaomieClareEdward/LibraryManagementSystemProject)
   - [Password management project](https://github.com/NaomieClareEdward/PasswordManagerProject)
     
-- **Skills**: C#, Python, Kotlin, JavaScript, HTML/CSS, ASP.NET Core...
+- **Skills**: C#, Python, Kotlin, JavaScript, HTML/CSS, ASP.NET Core, Bash, Scrum/Agile
+
 Here is my [CV](https://github.com/NaomieClareEdward/CV) for more information on my qualifications and career journey
 
 Check out my repositories on [GitHub](https://github.com/NaomieClareEdward) to see what I’ve been working on!
