@@ -1,4 +1,4 @@
-# Welcome to My GitHub Page
+# Naomie Clare Edward
 
 ## About Me
 Hi! I'm **Naomie Clare Edward**, a student in the **Computer Science Technology** program at **John Abbott College**. I'm passionate about technology, creativity, and storytelling.
@@ -18,6 +18,7 @@ I'm currently working on a **Farming Simulation Game** for my **Game Programming
 - **Projects**: 
   - [Library management system](https://github.com/NaomieClareEdward/LibraryManagementSystemProject)
 - **Skills**: C#, Python, Kotlin, JavaScript, HTML/CSS, ASP.NET Core...
+
 Check out my repositories on [GitHub](https://github.com/NaomieClareEdward) to see what I’ve been working on!
 #### Contact Me
 - Email: edwardnaomie@hotmail.com
