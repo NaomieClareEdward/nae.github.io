@@ -1,7 +1,7 @@
 # Naomie Clare Edward
 
 ## About Me
-Hi! I'm **Naomie Clare Edward**, a student in the **Computer Science Technology** program at **John Abbott College**. I'm passionate about technology, creativity, and storytelling.
+Hi! I'm **Naomie Clare Edward**, a student in the **Computer Science Technology** program at **John Abbott College**. I'm passionate about mixing my creativity with technology.
 
 ### Current Projects
 I'm currently working on a **Farming Simulation Game** for my **Game Programming Class**. It's been a great opportunity to explore game mechanics, design, and programming.
@@ -17,6 +17,8 @@ I'm currently working on a **Farming Simulation Game** for my **Game Programming
 #### My Portfolio
 - **Projects**: 
   - [Library management system](https://github.com/NaomieClareEdward/LibraryManagementSystemProject)
+  - [Password management project](https://github.com/NaomieClareEdward/PasswordManagerProject)
+    
 - **Skills**: C#, Python, Kotlin, JavaScript, HTML/CSS, ASP.NET Core...
 
 Check out my repositories on [GitHub](https://github.com/NaomieClareEdward) to see what I’ve been working on!
